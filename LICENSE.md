@@ -1,4 +1,4 @@
-# LEGAL_AGREEMENT.md - Project Elysium Codebase Legal Agreement (Ironclad Edition)
+# LEGAL_AGREEMENT.md - Project Elysium Codebase Legal Agreement
 
 **Project Name:** Project Elysium Rev 1.1
 **Date:** 2025-06-26 3:30 PM EDT
